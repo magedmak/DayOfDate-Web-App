@@ -7,5 +7,5 @@ Try it from here [Day of Date](https://dayofdate.netlify.app/)
 ## Copyright
 Day of Date web app is copyright (C) 2022 Maged Magdy. All rights reserved.
 
-Contact
+## Contact
 For questions or support, please contact Maged Magdy at magedmagdy.engr@gmail.com.
