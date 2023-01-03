@@ -3,3 +3,9 @@ it was implemented using bootstrap framework and JavaScript. It is based on the 
 
 It is fully functional and deployed on Netlify.
 Try it from here [Day of Date](https://dayofdate.netlify.app/)
+
+## Copyright
+Day of Date web app is copyright (C) 2022 Maged Magdy. All rights reserved.
+
+Contact
+For questions or support, please contact Maged Magdy at magedmagdy.engr@gmail.com.
